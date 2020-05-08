@@ -11,7 +11,9 @@ This repository is currently under development. For developmental install, downl
 
 `pip install -e .`
 
-
+This package requires the following:
+- NumPy
+- Matplotlib
 
 ### Copyright
 
