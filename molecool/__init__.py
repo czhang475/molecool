@@ -4,7 +4,8 @@ A Python package for reading .pdb and .xyz files
 """
 
 # Add imports here
-from .FirstMod import *
+from .functions import *
+#import molecool.functions
 
 # Handle versioneer
 from ._version import get_versions
