@@ -18,8 +18,11 @@ This package requires the following:
 Features should be developed on branches. To create and switch to a branch, use the command:
 `git checkout -b <new_branch_name>`
 
+To submit your feature to be incorporated into the master branch, you should submit a `pull request`. The repository maintainers will review your pull request before accepting your changes.
+
 To switch to an existing branch, use:
 `git checkout <branch_name>`
+
 
 ### Copyright
 
@@ -27,6 +30,6 @@ Copyright (c) 2020, Chris Zhang
 
 
 #### Acknowledgements
- 
-Project based on the 
+
+Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.2.
